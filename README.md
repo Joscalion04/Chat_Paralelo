@@ -33,4 +33,4 @@ Este repositorio fue realizado como proyecto universitario.
 Integrantes:
  - Raquel Hernández Campos
  - David Serrano Medrano
- - Joseph Leon Cabezas
+ - Joseph Leon Cabezas (Joscalion04)
